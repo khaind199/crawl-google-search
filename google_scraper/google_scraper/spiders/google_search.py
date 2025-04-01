@@ -7,7 +7,7 @@ class GoogleSearchSpider(scrapy.Spider):
     name = "google_search"
 
     # API key của SerpAPI
-    api_key = "b01b05a3e80ee7d840be90f95f7ac06c8bc830cc616909e927d10abb8c3e15c8"
+    api_key = "your_api_key"
     
     # URL của SerpAPI cho Google Local Search
     base_url = "https://serpapi.com/search"
