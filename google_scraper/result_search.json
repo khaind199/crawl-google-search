@@ -1,0 +1,405 @@
+[
+    {
+        "name": "Letefe Bistro & Cafe",
+        "address": "12 Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 4.6,
+        "reviews": 115,
+        "service_options": {
+            "dine_in": true,
+            "curbside_pickup": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "6507277189933628490",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=6507277189933628490&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.047663,
+            "longitude": 105.794685
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fbb827a0c28885a963b7a43a536b0509191055aa379d627a6e.jpeg",
+        "type": "Bistro",
+        "lsig": "AB86z5VI9HHkFVLTggVGA8Mljr1e",
+        "description": "N/A"
+    },
+    {
+        "name": "Phòng trà Hà Nội Phố",
+        "address": "38 Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 4.6,
+        "reviews": 35,
+        "service_options": {
+            "dine_in": true,
+            "drive_through": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "5700136192504195789",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=5700136192504195789&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.048641,
+            "longitude": 105.79447
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fbc1639bf717f52a842ef5a6ae12c19f9f30280c036fb40ffb.jpeg",
+        "type": "Cafe",
+        "lsig": "AB86z5UmX8kHYO3fAvwfijb_haBy",
+        "description": "N/A"
+    },
+    {
+        "name": "Nhà Hàng Cửa Rừng",
+        "address": "106 Hoàng Quốc Việt",
+        "rating": 4.3,
+        "reviews": 4,
+        "service_options": {
+            "dine_in": true,
+            "takeout": true
+        },
+        "place_id": "158602006387787947",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=158602006387787947&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.046473,
+            "longitude": 105.79515
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fbc7f6b92dba55508e22762cb3781a84d7a477a5d9fa8b9de3.jpeg",
+        "type": "Brunch",
+        "lsig": "AB86z5VGsMYH6PrrGCxawWDpCngS",
+        "description": "N/A"
+    },
+    {
+        "name": "Highlands Coffee",
+        "address": "106 Hoàng Quốc Việt",
+        "rating": 4.1,
+        "reviews": 780,
+        "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "6455510994639026482",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=6455510994639026482&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.04647,
+            "longitude": 105.79534
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb7ed550b4d517ddf2fb950eab82068fb154bc9b6460153aaf.jpeg",
+        "type": "Coffee shop",
+        "lsig": "AB86z5XfOKttX2p6vLXzsJRhrlTk",
+        "description": "N/A"
+    },
+    {
+        "name": "Bún Đậu Phố - Hoàng Quốc Việt",
+        "address": "1 D1 Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 3.8,
+        "reviews": 153,
+        "service_options": {
+            "dine_in": true,
+            "drive_through": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "11010519009034939994",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=11010519009034939994&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.046885,
+            "longitude": 105.79478
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fbaa71df58f545b8218afc616ff0b4289229188440715372d6.jpeg",
+        "type": "Restaurant",
+        "lsig": "AB86z5VqKYJP5wj6ZJHXcJwkKUI7",
+        "description": "N/A"
+    },
+    {
+        "name": "Saju Sushi & BBQ Restaurant",
+        "address": "106 Hoang Quoc Viet Somerset Hoa Binh Building",
+        "rating": 4.9,
+        "reviews": 1300,
+        "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+        },
+        "place_id": "7800905848130268809",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=7800905848130268809&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.046457,
+            "longitude": 105.79507
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb2dc12a5863b1526a6fbc29bfda209476e404bc8e7fc37fdc.jpeg",
+        "type": "Japanese",
+        "lsig": "AB86z5UOHV1Km9oaV5tC-I0tg3dO",
+        "description": "N/A"
+    },
+    {
+        "name": "Cà phê Nghị",
+        "address": "BT1-22, Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 4.9,
+        "reviews": 12,
+        "service_options": {
+            "dine_in": true,
+            "drive_through": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "1580272346722098289",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=1580272346722098289&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.050856,
+            "longitude": 105.793274
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fbdb749cc416f66bbbcd636071aa6dc58a4eef9a56a2df923f.jpeg",
+        "type": "Cafe",
+        "lsig": "AB86z5VSwUn4TelWbVgzmYcRs9pq",
+        "description": "N/A"
+    },
+    {
+        "name": "Ben Gourmet Restaurant - Café",
+        "address": "98 Hoàng Quốc Việt Hà Nội",
+        "rating": 4.8,
+        "reviews": 26,
+        "service_options": {
+            "dine_in": true,
+            "curbside_pickup": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "14989410670712563926",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=14989410670712563926&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.04649,
+            "longitude": 105.796036
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb9ec7265bf14cc5289887eddfff3739aaef9800545543076c.jpeg",
+        "type": "Restaurant",
+        "lsig": "AB86z5Wf8L7e-LFIcCTVeraZMdMI",
+        "description": "N/A"
+    },
+    {
+        "name": "XI Coffee & Tea",
+        "address": "BT13 Ngõ 106 - Hoàng Quốc Việt, Cổ Nhuế 1, Từ Liêm Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 3.7,
+        "reviews": 52,
+        "service_options": {
+            "dine_in": true
+        },
+        "place_id": "1117952218270706051",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=1117952218270706051&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.047516,
+            "longitude": 105.79458
+        },
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN1AdQl20GXQ_TFdSaraf5x3Hvo36M5u08USqZR=w90-h90-n-k-no",
+        "type": "Cafe",
+        "lsig": "AB86z5VlI4PJF03HcPRw8aXyDsY_",
+        "description": "N/A"
+    },
+    {
+        "name": "Takara Japanese Restaurant",
+        "address": "Khu căn hộ Toà nhà Somerset Hoà Bình, 106 Hoàng Quốc Việt",
+        "rating": 4.3,
+        "reviews": 55,
+        "service_options": {
+            "dine_in": true,
+            "takeout": true,
+            "delivery": true
+        },
+        "place_id": "5738007817995184098",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=5738007817995184098&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.046577,
+            "longitude": 105.795525
+        },
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPyTdVLuYmyOaRQMhJX-HjMvx-VCgVqbs-ZeJMQ=w90-h90-n-k-no",
+        "type": "Japanese",
+        "lsig": "AB86z5V97XijJ8Ip3CSW9ZDwzJrd",
+        "description": "N/A"
+    },
+    {
+        "name": "Căn cứ Café",
+        "address": "BT23, Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 4.5,
+        "reviews": 17,
+        "service_options": {
+            "dine_in": true,
+            "drive_through": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "10800883730379089728",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=10800883730379089728&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.050581,
+            "longitude": 105.79315
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb5e3494cdfe8d7f3817ea437f2ce07db79e70cf0deb864016.jpeg",
+        "type": "Coffee shop",
+        "lsig": "AB86z5V_eEXRk2xtiPG6Vxt-DA57",
+        "description": "N/A"
+    },
+    {
+        "name": "Phở O'beefsoup",
+        "address": "CT2B, Tầng 1, Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 4.0,
+        "reviews": 26,
+        "service_options": {
+            "dine_in": true,
+            "takeout": true
+        },
+        "place_id": "4305731883908043826",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=4305731883908043826&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.051409,
+            "longitude": 105.79398
+        },
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOuTBuMg4PEsaZIH3ynaDNIgnpuXZqE42wPlpTn=w90-h90-n-k-no",
+        "type": "Restaurant",
+        "lsig": "AB86z5VW0MyCmJLOBPwD9Dw6N9Xc",
+        "description": "N/A"
+    },
+    {
+        "name": "Bún Chả Ba Cô Tiên",
+        "address": "26 ngách 2 Ngõ 203 Hoàng Quốc Việt",
+        "rating": 4.8,
+        "reviews": 324,
+        "service_options": {
+            "dine_in": true,
+            "drive_through": true,
+            "no_contact_delivery": true
+        },
+        "place_id": "5484684782857783656",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=5484684782857783656&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.045544,
+            "longitude": 105.79695
+        },
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipP51dKv2hHxRTVtouYzHfK-dcdhkLJYxCkEIe14=w90-h90-n-k-no",
+        "type": "Bistro",
+        "lsig": "AB86z5VzomnEmAcAO_nG_4TJwNXK",
+        "description": "N/A"
+    },
+    {
+        "name": "KFC Hoang Quoc Viet",
+        "address": "Tòa Nhà Hòa Bình, 106 Hoàng Quốc Việt",
+        "rating": 4.3,
+        "reviews": 1500,
+        "service_options": {},
+        "place_id": "17459313452649836474",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=17459313452649836474&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.04656,
+            "longitude": 105.79473
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb2878356a1b8324f4788c2e08fa6394590c6988263e1111ff.jpeg",
+        "type": "Fast Food",
+        "lsig": "AB86z5W_MNinEqkJk_zucRpvhvGu",
+        "description": "Fried chicken restaurant chain"
+    },
+    {
+        "name": "Phở Quyết Thắng",
+        "address": "1 Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 3.0,
+        "reviews": 2,
+        "service_options": {
+            "dine_in": true,
+            "takeout": true
+        },
+        "place_id": "7398786669932614467",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=7398786669932614467&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.046932,
+            "longitude": 105.79457
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fbe0d0701ebb8aea430c724d34bdd044f432662777dd859aac.png",
+        "type": "Restaurant",
+        "lsig": "AB86z5WPQGQCp0NfOy5koQuM0QLp",
+        "description": "N/A"
+    },
+    {
+        "name": "Trúc An Coffee & Restaurant",
+        "address": "387 Hoàng Quốc Việt",
+        "rating": 4.3,
+        "reviews": 60,
+        "service_options": {
+            "dine_in": true,
+            "takeout": true
+        },
+        "place_id": "13007672811484837752",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=13007672811484837752&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.045935,
+            "longitude": 105.7926
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb6889268b348f04ad6a423fef13356ee75a4c0c0dabb2db00.jpeg",
+        "type": "Restaurant",
+        "lsig": "AB86z5Wj-m3Fxq0xG1covZPPg10j",
+        "description": "N/A"
+    },
+    {
+        "name": "Santouniu - Buffet lẩu bò tươi",
+        "address": "BT24, Đ. Kđt Nghĩa Đô Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 4.6,
+        "reviews": 94,
+        "service_options": {
+            "dine_in": true
+        },
+        "place_id": "7521585155502005421",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=7521585155502005421&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.050774,
+            "longitude": 105.79299
+        },
+        "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOrHJXcE--Ny2VFQOOt0i0yHSsnLrARdpfdM3gr=w90-h90-n-k-no",
+        "type": "Restaurant",
+        "lsig": "AB86z5VAvTSPmjnlZAb9DnSLovpi",
+        "description": "N/A"
+    },
+    {
+        "name": "MEOW COFFEE",
+        "address": "4 ngách 84 Ng. 106 Đ. Hoàng Quốc Việt",
+        "rating": 4.5,
+        "reviews": 123,
+        "service_options": {
+            "dine_in": true,
+            "delivery": true
+        },
+        "place_id": "17986943627991942474",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=17986943627991942474&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.049706,
+            "longitude": 105.79397
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb74d8f8c60f113ee2a7e4e896e5e928cd5380e98c78d9da43.jpeg",
+        "type": "Cafe",
+        "lsig": "AB86z5VGiLuD6hG-EFixdLW09YLr",
+        "description": "N/A"
+    },
+    {
+        "name": "Hai Xom Beer Restaurant",
+        "address": "91 Hoàng Quốc Việt",
+        "rating": 3.7,
+        "reviews": 1200,
+        "service_options": {
+            "dine_in": true,
+            "drive_through": true,
+            "delivery": true
+        },
+        "place_id": "18373207895103773834",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=18373207895103773834&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.045893,
+            "longitude": 105.80262
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fb16e270f5820e072995673a2f2dd73e44dfad2ff0fe467e75.jpeg",
+        "type": "Restaurant",
+        "lsig": "AB86z5VZUqk40aX9Sif65xPjNkah",
+        "description": "N/A"
+    },
+    {
+        "name": "Somerset Hoa Binh Hanoi",
+        "address": "No 106 Hoàng Quốc Việt",
+        "rating": 4.2,
+        "reviews": 845,
+        "service_options": {},
+        "place_id": "13836489571193210485",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google_local&gl=us&google_domain=google.com&hl=en&ludocid=13836489571193210485&q=106+Ho%C3%A0ng+Qu%E1%BB%91c+Vi%E1%BB%87t+restaurant",
+        "gps_coordinates": {
+            "latitude": 21.046648,
+            "longitude": 105.795395
+        },
+        "thumbnail": "https://serpapi.com/searches/67eb5eea09a7f99573725c4e/images/506a745435d1f1fbcfa806e3b892ec12110bba6ee4387d615691de4de8c9b5c1.jpeg",
+        "type": "Serviced accommodation",
+        "lsig": "AB86z5VFnfFLQ-MBYwU9sTnj6VWs",
+        "description": "Chic apartment hotel with a roof garden"
+    }
+]
